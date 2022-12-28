@@ -2,4 +2,4 @@
 
 -> Generally linked list data structure is used in this project.
 
--> Console application made with C++
+-> Console application made with C++ and compiled with MinGW
