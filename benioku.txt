@@ -1,0 +1,2 @@
+Programı çalıştırmak için "make" komutu çalışmaz ise "mingw32-make" komutunu kullanınız.
+Program bozuk çalıştığında tekrardan derlerseniz sorun çözülecektir.
